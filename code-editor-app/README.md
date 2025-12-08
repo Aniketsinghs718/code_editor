@@ -42,23 +42,7 @@ Search for: semicolons, indentation, brackets, functions, variables, loops, cond
 
 - Next.js 16.0
 - TypeScript 5.0
-- React 19.2
 - Monaco Editor
 - Tailwind CSS 4.0
 
-## Project Structure
 
-```
-├── app/              # Pages and layouts
-├── components/       # React components  
-├── lib/              # Utilities (autoFix, codeExecutor, helpSystem)
-└── package.json      # Dependencies
-```
-
-## Deploy
-
-Deploy to Vercel: https://vercel.com
-
-## License
-
-MIT
